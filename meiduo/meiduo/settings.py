@@ -11,7 +11,7 @@ https://docs.djangoproject.com/en/3.2/ref/settings/
 """
 
 from pathlib import Path
-
+import os
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 
@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-h25z%=q&ih&skpt!*234qzc%rc4gp^cu4)uxe3_r6-b@sowd#+
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['www.meiduo.site','127.0.0.1','localhost']
 
 
 # Application definition
@@ -149,3 +149,64 @@ SESSION_CACHE_ALIAS = 'session'#session 保留的库是哪一个
 # https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+############日志################
+LOGGING = {
+    'version': 1,
+    'disable_existing_loggers': False, #是否禁用已经存在的日志器
+    'formatters': { # 日志信息显示的格式
+        'verbose': {
+            'format': '%(levelname)s %(asctime)s %(module)s %(process)d %(thread)d %(message)s'
+        },
+        'simple': {
+            'format': '%(levelname)s %(message)s'
+        },
+    },
+    'filters': { #对日志进行过滤
+        # 'special': {
+        #     '()': 'project.logging.SpecialFilter',
+        #     'foo': 'bar',
+        # },
+        'require_debug_true': { # django在debug模式下才输出日志
+            '()': 'django.utils.log.RequireDebugTrue',
+        },
+    },
+    'handlers': { #日志处理方法
+        'console': { #向终端中输出日志
+            'level': 'INFO',
+            'filters': ['require_debug_true'],
+            'class': 'logging.StreamHandler',
+            'formatter': 'simple'
+        },
+        'file':{ #向文件中写入
+            'level': 'INFO',
+            'filename':os.path.join(BASE_DIR,'logs/meiduo.log'),#位置
+            'class': 'logging.handlers.RotatingFileHandler',
+            'maxBytes':300 * 1024 *1024, #每个log文件最大的容量
+            'backupCount':10, # 备份文件数量
+            'formatter': 'verbose'
+        },
+        # 'mail_admins': {
+        #     'level': 'ERROR',
+        #     'class': 'django.utils.log.AdminEmailHandler',
+        #     'filters': ['special']
+        # }
+    },
+    'loggers': { #日志器
+        'django': { #名字为django的日志器
+            'handlers': ['console','file'], # 同时向终端和文件中输出日志
+            'propagate': True, #是否继续传递日志信息
+            'level':'INFO' #日志器接受的最低日志级别
+        },
+        # 'django.request': {
+        #     'handlers': ['mail_admins'],
+        #     'level': 'ERROR',
+        #     'propagate': False,
+        # },
+        # 'myproject.custom': {
+        #     'handlers': ['console', 'mail_admins'],
+        #     'level': 'INFO',
+        #     'filters': ['special']
+        # }
+    }
+}

@@ -1,0 +1,57 @@
+INFO 2022-06-16 15:18:50,584 autoreload 9668 7576 Watching for file changes with StatReloader
+INFO 2022-06-16 15:42:15,153 autoreload 5824 21492 Watching for file changes with StatReloader
+INFO 2022-06-16 15:42:22,447 basehttp 5824 21588 "GET / HTTP/1.1" 200 10697
+INFO 2022-06-16 15:42:22,459 basehttp 5824 21588 "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+INFO 2022-06-16 15:42:22,501 basehttp 5824 21588 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+INFO 2022-06-16 15:42:22,502 basehttp 5824 18160 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+INFO 2022-06-16 15:42:22,503 basehttp 5824 20172 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+ERROR 2022-06-16 15:42:28,803 exception 5824 7024 Invalid HTTP_HOST header: 'www.meiduo.site'. You may need to add 'www.meiduo.site' to ALLOWED_HOSTS.
+WARNING 2022-06-16 15:42:28,847 log 5824 7024 Bad Request: /
+WARNING 2022-06-16 15:42:28,849 basehttp 5824 7024 "GET / HTTP/1.1" 400 68915
+ERROR 2022-06-16 15:42:28,965 exception 5824 8616 Invalid HTTP_HOST header: 'www.meiduo.site'. You may need to add 'www.meiduo.site' to ALLOWED_HOSTS.
+WARNING 2022-06-16 15:42:28,994 log 5824 8616 Bad Request: /favicon.ico
+WARNING 2022-06-16 15:42:28,995 basehttp 5824 8616 "GET /favicon.ico HTTP/1.1" 400 68969
+INFO 2022-06-16 15:43:25,327 autoreload 5824 21492 C:\Users\Forever\Desktop\web\Meiduo\meiduo\meiduo\settings.py changed, reloading.
+INFO 2022-06-16 15:43:26,030 autoreload 4812 8068 Watching for file changes with StatReloader
+ERROR 2022-06-16 15:43:48,297 exception 4812 10732 Invalid HTTP_HOST header: '127.0.0.1'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2022-06-16 15:43:48,339 log 4812 10732 Bad Request: /
+WARNING 2022-06-16 15:43:48,340 basehttp 4812 10732 "GET / HTTP/1.1" 400 69940
+ERROR 2022-06-16 15:43:50,794 exception 4812 16688 Invalid HTTP_HOST header: '127.0.0.1'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2022-06-16 15:43:50,819 log 4812 16688 Bad Request: /
+WARNING 2022-06-16 15:43:50,821 basehttp 4812 16688 "GET / HTTP/1.1" 400 70077
+INFO 2022-06-16 15:44:11,590 autoreload 4812 8068 C:\Users\Forever\Desktop\web\Meiduo\meiduo\meiduo\settings.py changed, reloading.
+INFO 2022-06-16 15:44:12,245 autoreload 20228 3060 Watching for file changes with StatReloader
+INFO 2022-06-16 15:44:23,721 basehttp 20228 10824 "GET / HTTP/1.1" 200 10697
+INFO 2022-06-16 15:45:59,305 autoreload 20228 3060 C:\Users\Forever\Desktop\web\Meiduo\meiduo\meiduo\settings.py changed, reloading.
+INFO 2022-06-16 15:45:59,928 autoreload 20056 9320 Watching for file changes with StatReloader
+INFO 2022-06-16 15:46:13,074 basehttp 20056 1260 "GET / HTTP/1.1" 200 10697
+WARNING 2022-06-16 15:46:34,126 log 20056 22124 Not Found: /sales/customers
+WARNING 2022-06-16 15:46:34,126 basehttp 20056 22124 "GET /sales/customers HTTP/1.1" 404 2117
+WARNING 2022-06-16 15:46:34,177 log 20056 22124 Not Found: /favicon.ico
+WARNING 2022-06-16 15:46:34,178 basehttp 20056 22124 "GET /favicon.ico HTTP/1.1" 404 2105
+INFO 2022-06-16 15:46:40,416 basehttp 20056 22124 "GET / HTTP/1.1" 200 10697
+INFO 2022-06-16 15:46:40,425 basehttp 20056 22124 "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+INFO 2022-06-16 15:46:40,449 basehttp 20056 21536 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+INFO 2022-06-16 15:46:40,449 basehttp 20056 22124 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+INFO 2022-06-16 15:46:40,450 basehttp 20056 15800 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+ERROR 2022-06-16 15:46:47,443 exception 20056 16848 Invalid HTTP_HOST header: 'www.meiduo.site'. You may need to add 'www.meiduo.site' to ALLOWED_HOSTS.
+WARNING 2022-06-16 15:46:47,479 log 20056 16848 Bad Request: /
+WARNING 2022-06-16 15:46:47,480 basehttp 20056 16848 "GET / HTTP/1.1" 400 68915
+ERROR 2022-06-16 15:46:47,609 exception 20056 15880 Invalid HTTP_HOST header: 'www.meiduo.site'. You may need to add 'www.meiduo.site' to ALLOWED_HOSTS.
+WARNING 2022-06-16 15:46:47,636 log 20056 15880 Bad Request: /favicon.ico
+WARNING 2022-06-16 15:46:47,638 basehttp 20056 15880 "GET /favicon.ico HTTP/1.1" 400 68969
+INFO 2022-06-16 15:47:11,291 autoreload 20056 9320 C:\Users\Forever\Desktop\web\Meiduo\meiduo\meiduo\settings.py changed, reloading.
+INFO 2022-06-16 15:47:12,100 autoreload 12092 13424 Watching for file changes with StatReloader
+INFO 2022-06-16 15:47:14,102 basehttp 12092 2552 "GET / HTTP/1.1" 200 10697
+INFO 2022-06-16 15:47:14,110 basehttp 12092 2552 "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+INFO 2022-06-16 15:47:14,135 basehttp 12092 16888 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+INFO 2022-06-16 15:47:14,136 basehttp 12092 2552 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+INFO 2022-06-16 15:47:14,138 basehttp 12092 19212 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+WARNING 2022-06-16 15:47:14,144 log 12092 19556 Not Found: /favicon.ico
+WARNING 2022-06-16 15:47:14,144 basehttp 12092 19556 "GET /favicon.ico HTTP/1.1" 404 2111
+INFO 2022-06-16 16:11:49,201 basehttp 12092 7664 "GET / HTTP/1.1" 200 10697
+INFO 2022-06-16 16:11:49,210 basehttp 12092 7664 "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+INFO 2022-06-16 16:13:24,494 basehttp 12092 7664 "GET / HTTP/1.1" 200 10697
+INFO 2022-06-16 16:13:24,554 basehttp 12092 18668 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+INFO 2022-06-16 16:13:24,555 basehttp 12092 7664 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+INFO 2022-06-16 16:13:24,556 basehttp 12092 21052 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
