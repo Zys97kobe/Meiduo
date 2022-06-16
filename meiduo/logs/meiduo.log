@@ -55,3 +55,16 @@ INFO 2022-06-16 16:13:24,494 basehttp 12092 7664 "GET / HTTP/1.1" 200 10697
 INFO 2022-06-16 16:13:24,554 basehttp 12092 18668 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
 INFO 2022-06-16 16:13:24,555 basehttp 12092 7664 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
 INFO 2022-06-16 16:13:24,556 basehttp 12092 21052 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+INFO 2022-06-16 16:22:44,395 autoreload 12092 13424 C:\Users\Forever\Desktop\web\Meiduo\meiduo\meiduo\settings.py changed, reloading.
+INFO 2022-06-16 16:22:45,633 autoreload 10532 1464 Watching for file changes with StatReloader
+INFO 2022-06-16 16:28:08,570 autoreload 10532 1464 C:\Users\Forever\Desktop\web\Meiduo\meiduo\meiduo\settings.py changed, reloading.
+INFO 2022-06-16 16:28:09,174 autoreload 19204 2640 Watching for file changes with StatReloader
+INFO 2022-06-16 16:30:13,902 autoreload 7044 11720 Watching for file changes with StatReloader
+INFO 2022-06-16 16:32:01,236 autoreload 19040 6784 Watching for file changes with StatReloader
+INFO 2022-06-16 22:06:07,797 autoreload 19040 6784 C:\Users\Forever\Desktop\web\Meiduo\meiduo\meiduo\settings.py changed, reloading.
+INFO 2022-06-16 22:06:08,636 autoreload 5848 3164 Watching for file changes with StatReloader
+INFO 2022-06-16 22:08:59,162 autoreload 5848 3164 C:\Users\Forever\Desktop\web\Meiduo\meiduo\meiduo\settings.py changed, reloading.
+INFO 2022-06-16 22:08:59,814 autoreload 18692 20236 Watching for file changes with StatReloader
+INFO 2022-06-16 22:15:01,890 autoreload 15848 13268 Watching for file changes with StatReloader
+INFO 2022-06-16 22:15:47,470 autoreload 15848 13268 C:\Users\Forever\Desktop\web\Meiduo\meiduo\meiduo\settings.py changed, reloading.
+INFO 2022-06-16 22:15:48,174 autoreload 15692 5300 Watching for file changes with StatReloader
