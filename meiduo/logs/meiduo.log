@@ -68,3 +68,66 @@ INFO 2022-06-16 22:08:59,814 autoreload 18692 20236 Watching for file changes wi
 INFO 2022-06-16 22:15:01,890 autoreload 15848 13268 Watching for file changes with StatReloader
 INFO 2022-06-16 22:15:47,470 autoreload 15848 13268 C:\Users\Forever\Desktop\web\Meiduo\meiduo\meiduo\settings.py changed, reloading.
 INFO 2022-06-16 22:15:48,174 autoreload 15692 5300 Watching for file changes with StatReloader
+INFO 2022-06-17 13:02:00,808 autoreload 21704 17292 Watching for file changes with StatReloader
+INFO 2022-06-17 13:02:14,447 autoreload 21704 17292 C:\Users\Forever\Desktop\web\Meiduo\meiduo\apps\users\apps.py changed, reloading.
+INFO 2022-06-17 13:02:15,227 autoreload 3948 15000 Watching for file changes with StatReloader
+INFO 2022-06-17 13:02:23,582 autoreload 21476 4672 Watching for file changes with StatReloader
+INFO 2022-06-17 13:02:52,267 autoreload 5112 15920 Watching for file changes with StatReloader
+INFO 2022-06-17 13:03:43,393 autoreload 5112 15920 C:\Users\Forever\Desktop\web\Meiduo\meiduo\apps\users\apps.py changed, reloading.
+INFO 2022-06-17 13:03:44,075 autoreload 19228 18652 Watching for file changes with StatReloader
+INFO 2022-06-17 13:06:09,295 autoreload 19228 18652 C:\Users\Forever\Desktop\web\Meiduo\meiduo\apps\users\apps.py changed, reloading.
+INFO 2022-06-17 13:06:09,858 autoreload 13888 18460 Watching for file changes with StatReloader
+INFO 2022-06-17 13:07:25,391 autoreload 13888 18460 C:\Users\Forever\Desktop\web\Meiduo\meiduo\apps\users\apps.py changed, reloading.
+INFO 2022-06-17 13:07:26,039 autoreload 20852 2600 Watching for file changes with StatReloader
+INFO 2022-06-17 13:26:03,054 autoreload 20852 2600 C:\Users\Forever\Desktop\web\Meiduo\meiduo\apps\users\models.py changed, reloading.
+INFO 2022-06-17 13:26:03,772 autoreload 6208 2304 Watching for file changes with StatReloader
+INFO 2022-06-17 13:27:53,376 autoreload 6208 2304 C:\Users\Forever\Desktop\web\Meiduo\meiduo\apps\users\models.py changed, reloading.
+INFO 2022-06-17 13:27:54,037 autoreload 19020 18340 Watching for file changes with StatReloader
+INFO 2022-06-17 13:30:36,592 autoreload 19020 18340 C:\Users\Forever\Desktop\web\Meiduo\meiduo\apps\users\models.py changed, reloading.
+INFO 2022-06-17 13:30:37,248 autoreload 9972 17328 Watching for file changes with StatReloader
+INFO 2022-06-17 13:34:46,188 autoreload 9972 17328 C:\Users\Forever\Desktop\web\Meiduo\meiduo\apps\users\models.py changed, reloading.
+INFO 2022-06-17 13:34:46,807 autoreload 16536 1416 Watching for file changes with StatReloader
+INFO 2022-06-17 13:36:09,759 autoreload 16536 1416 C:\Users\Forever\Desktop\web\Meiduo\meiduo\apps\users\models.py changed, reloading.
+INFO 2022-06-17 13:36:10,486 autoreload 20360 15188 Watching for file changes with StatReloader
+INFO 2022-06-17 13:39:12,403 autoreload 20360 15188 C:\Users\Forever\Desktop\web\Meiduo\meiduo\apps\users\models.py changed, reloading.
+INFO 2022-06-17 13:39:13,076 autoreload 21876 6904 Watching for file changes with StatReloader
+INFO 2022-06-17 13:42:49,819 autoreload 21876 6904 C:\Users\Forever\Desktop\web\Meiduo\meiduo\apps\users\models.py changed, reloading.
+INFO 2022-06-17 13:42:50,456 autoreload 4504 21396 Watching for file changes with StatReloader
+INFO 2022-06-17 13:43:10,123 autoreload 4504 21396 C:\Users\Forever\Desktop\web\Meiduo\meiduo\apps\users\models.py changed, reloading.
+INFO 2022-06-17 13:43:10,767 autoreload 21256 14404 Watching for file changes with StatReloader
+INFO 2022-06-17 13:44:11,685 autoreload 21256 14404 C:\Users\Forever\Desktop\web\Meiduo\meiduo\apps\users\models.py changed, reloading.
+INFO 2022-06-17 13:44:12,373 autoreload 19224 17188 Watching for file changes with StatReloader
+INFO 2022-06-17 13:46:31,384 autoreload 19224 17188 C:\Users\Forever\Desktop\web\Meiduo\meiduo\apps\users\models.py changed, reloading.
+INFO 2022-06-17 13:46:32,005 autoreload 16872 13384 Watching for file changes with StatReloader
+INFO 2022-06-17 13:49:45,194 autoreload 16872 13384 C:\Users\Forever\Desktop\web\Meiduo\meiduo\apps\users\models.py changed, reloading.
+INFO 2022-06-17 13:49:45,882 autoreload 20928 21160 Watching for file changes with StatReloader
+INFO 2022-06-17 13:53:02,555 autoreload 20928 21160 C:\Users\Forever\Desktop\web\Meiduo\meiduo\meiduo\settings.py changed, reloading.
+INFO 2022-06-17 13:53:03,204 autoreload 20548 14832 Watching for file changes with StatReloader
+INFO 2022-06-17 13:54:30,744 autoreload 20548 14832 C:\Users\Forever\Desktop\web\Meiduo\meiduo\apps\users\models.py changed, reloading.
+INFO 2022-06-17 13:54:31,487 autoreload 19200 644 Watching for file changes with StatReloader
+INFO 2022-06-17 13:55:14,637 autoreload 19200 644 C:\Users\Forever\Desktop\web\Meiduo\meiduo\meiduo\settings.py changed, reloading.
+INFO 2022-06-17 13:55:15,278 autoreload 16824 22308 Watching for file changes with StatReloader
+INFO 2022-06-17 13:55:46,350 autoreload 16824 22308 C:\Users\Forever\Desktop\web\Meiduo\meiduo\apps\users\models.py changed, reloading.
+INFO 2022-06-17 13:55:47,059 autoreload 14832 20548 Watching for file changes with StatReloader
+INFO 2022-06-17 13:57:33,136 autoreload 14832 20548 C:\Users\Forever\Desktop\web\Meiduo\meiduo\apps\users\models.py changed, reloading.
+INFO 2022-06-17 13:57:33,771 autoreload 6848 12760 Watching for file changes with StatReloader
+INFO 2022-06-17 13:58:57,296 autoreload 6848 12760 C:\Users\Forever\Desktop\web\Meiduo\meiduo\apps\users\models.py changed, reloading.
+INFO 2022-06-17 13:58:57,907 autoreload 19212 6056 Watching for file changes with StatReloader
+INFO 2022-06-17 13:59:18,540 autoreload 19212 6056 C:\Users\Forever\Desktop\web\Meiduo\meiduo\meiduo\settings.py changed, reloading.
+INFO 2022-06-17 13:59:19,171 autoreload 15684 12828 Watching for file changes with StatReloader
+INFO 2022-06-17 14:00:01,544 autoreload 15684 12828 C:\Users\Forever\Desktop\web\Meiduo\meiduo\apps\users\models.py changed, reloading.
+INFO 2022-06-17 14:00:02,258 autoreload 18004 21556 Watching for file changes with StatReloader
+INFO 2022-06-17 14:04:36,961 autoreload 18004 21556 C:\Users\Forever\Desktop\web\Meiduo\meiduo\apps\users\models.py changed, reloading.
+INFO 2022-06-17 14:04:37,585 autoreload 21476 18496 Watching for file changes with StatReloader
+INFO 2022-06-17 14:05:58,076 autoreload 21476 18496 C:\Users\Forever\Desktop\web\Meiduo\meiduo\apps\users\models.py changed, reloading.
+INFO 2022-06-17 14:05:58,707 autoreload 19896 14208 Watching for file changes with StatReloader
+INFO 2022-06-17 14:11:00,202 autoreload 19896 14208 C:\Users\Forever\Desktop\web\Meiduo\meiduo\meiduo\settings.py changed, reloading.
+INFO 2022-06-17 14:11:00,831 autoreload 2336 9544 Watching for file changes with StatReloader
+INFO 2022-06-17 14:13:45,373 autoreload 2336 9544 C:\Users\Forever\Desktop\web\Meiduo\meiduo\apps\users\models.py changed, reloading.
+INFO 2022-06-17 14:13:46,046 autoreload 11148 22272 Watching for file changes with StatReloader
+INFO 2022-06-17 14:18:09,383 autoreload 11148 22272 C:\Users\Forever\Desktop\web\Meiduo\meiduo\apps\users\apps.py changed, reloading.
+INFO 2022-06-17 14:18:10,116 autoreload 16348 11664 Watching for file changes with StatReloader
+INFO 2022-06-17 14:19:09,901 autoreload 16348 11664 C:\Users\Forever\Desktop\web\Meiduo\meiduo\meiduo\settings.py changed, reloading.
+INFO 2022-06-17 14:19:10,536 autoreload 19720 18100 Watching for file changes with StatReloader
+INFO 2022-06-17 14:19:35,370 autoreload 19720 18100 C:\Users\Forever\Desktop\web\Meiduo\meiduo\meiduo\settings.py changed, reloading.
+INFO 2022-06-17 14:19:36,168 autoreload 16908 20888 Watching for file changes with StatReloader

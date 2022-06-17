@@ -212,3 +212,5 @@ LOGGING = {
         # }
     }
 }
+###########替换系统用户模型################
+AUTH_USER_MODEL = 'users.userinfo'
